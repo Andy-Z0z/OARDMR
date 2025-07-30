@@ -2,7 +2,7 @@
 Official ARD Members Requiments (Roblox Town)
 Обновленные требования для получения ранга участника анти-рэйд департамента (ARD)
 
-#EN:Updated Requirements for Anti-Raid Department Participant Rank (ARD)
+# EN:Updated Requirements for Anti-Raid Department Participant Rank (ARD)
 	
  	Age	From 10 years old
  
@@ -20,7 +20,7 @@ Official ARD Members Requiments (Roblox Town)
  
 	Responsibilities	Reaction to threats and supporting faction members
 
-#RU:Формат записи требований:
+# RU:Формат записи требований:
 	
 	 Возраст	От 10 лет
  
