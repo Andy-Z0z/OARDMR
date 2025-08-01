@@ -4,17 +4,17 @@ Official ARD Members Requiments (Roblox Town)
 
 # EN:Updated Requirements for Anti-Raid Department Participant Rank (ARD)
 	
- 	Age	From 10 years old
+ 	Age			From 10 years old
  
-	Game Experience	At least 30 hours
+	Game Experience		At least 30 hours
  
-	Reputation	Up to three bans
+	Reputation		Up to three bans
  
-	Shooting Skills	Excellent accuracy
+	Shooting Skills		Excellent accuracy
  
- 	 Play Time	Over 200 hours
+ 	 Play Time		Over 200 hours
   
- 	 Uniform	SWAT
+ 	 Uniform		Riot
   	
 	Events Participation	Regular trainings
  
@@ -22,18 +22,18 @@ Official ARD Members Requiments (Roblox Town)
 
 # RU:Формат записи требований:
 	
-	 Возраст	От 10 лет
+	 Возраст			От 10 лет
  
-	Опыт игры	От 30 часов
+	Опыт игры			От 30 часов
  
-	Репутация	До трёх банов
+	Репутация			До трёх банов
+ 	
+	Стрельба			Отличная точность
  
-	Стрельба	Отличная точность
+	Игровой опыт			Более 200 часов
  
-	Игровой опыт	Более 200 часов
+	Форма				Riot
  
-	Форма	SWAT
+	Участие в мероприятиях		Регулярные тренировки
  
-	Участие в мероприятиях	Регулярные тренировки
- 
-	Обязанности	Реакция на угрозы и поддержка участников фракции
+	Обязанности			Реакция на угрозы и поддержка участников фракции
